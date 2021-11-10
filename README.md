@@ -10,4 +10,5 @@ A repo for game study.
 - https://www.sftourismtips.com/san-francisco-with-kids.html
 
 ## Media
+- https://www.pcmag.com/picks/the-best-video-games-for-kids
 - https://abc7news.com/oakland-gameheads-game-heads-traning-program-east-bay/5491848/
