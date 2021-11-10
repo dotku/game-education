@@ -12,3 +12,9 @@ A repo for game study.
 ## Media
 - https://www.pcmag.com/picks/the-best-video-games-for-kids
 - https://abc7news.com/oakland-gameheads-game-heads-traning-program-east-bay/5491848/
+- https://www.commonsensemedia.org/lists/new-kids-video-games-2021
+- https://www.lifewire.com/most-fun-online-games-for-kids-4427954
+- https://www.digitaltrends.com/gaming/best-video-games-for-kids-sorted-by-age-group/
+- https://www.cnet.com/pictures/17-awesome-video-games-to-play-with-your-kids/
+- https://nymag.com/strategist/article/best-board-games-for-kids.html
+- https://www.countryliving.com/shopping/gifts/g27410985/best-board-games-for-kids/
