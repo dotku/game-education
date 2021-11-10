@@ -2,7 +2,7 @@
 
 A repo for game study.
 
-## Camp
+## Campus
 - https://www.thegameacademy.org/programs/enrichment-gaming
 
 ## Media
