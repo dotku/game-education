@@ -3,12 +3,12 @@
 A repo for game study.
 
 ## Campus
-- https://www.thegameacademy.org/programs/enrichment-gaming, 8+
-- https://www.kidztopros.com/, 4+
+- https://www.thegameacademy.org/programs/enrichment-gaming, age 8+
+- https://www.kidztopros.com/, age 4+
 - https://summercampdirectories.com
 - https://www.hisawyer.com/browse/san-francisco-fishermans-wharf/classes/gaming
 - https://www.sftourismtips.com/san-francisco-with-kids.html
-- https://www.idtech.com/paths/game-development, 8+
+- https://www.idtech.com/paths/game-development, age 8+
 
 ## Media
 - https://www.pcmag.com/picks/the-best-video-games-for-kids
@@ -19,3 +19,6 @@ A repo for game study.
 - https://www.cnet.com/pictures/17-awesome-video-games-to-play-with-your-kids/
 - https://nymag.com/strategist/article/best-board-games-for-kids.html
 - https://www.countryliving.com/shopping/gifts/g27410985/best-board-games-for-kids/
+
+## App
+- https://g.co/doodle/ygxau2?ds=cl
